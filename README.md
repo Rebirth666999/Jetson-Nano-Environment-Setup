@@ -31,5 +31,5 @@
 - **技能沉淀：** 独立跑通了边缘计算设备的完整部署流（宿主机处理 -> 烧录 -> 远程 SSH/VNC 穿透 -> Linux 底层磁盘管理）。这种在没有现成环境下的“拓荒”能力，极大地提升了我的工程排错直觉。
 
 
-#### 点击下方按钮阅读完整的 CSDN 技术复盘报告
+#### 点击下方按钮阅读本人当时写的完整的 CSDN 技术复盘报告
 [![CSDN](https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5-C92027?logo=csdn)](https://blog.csdn.net/rebirth66/article/details/140751211?spm=1001.2014.3001.5502)
